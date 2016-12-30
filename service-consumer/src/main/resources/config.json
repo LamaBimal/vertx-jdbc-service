@@ -1,0 +1,10 @@
+{
+  "mailer.Config": {
+    "mail_group": "Production",
+    "from": "om.jobs@deerwalk.com",
+    "hostName": "email-smtp.us-east-1.amazonaws.com",
+    "port": 587,
+    "userName": "AKIAIJV43QDMRLH6JELAom",
+    "password": "Am5mD/CwiqoRuD00qjDnersEY2vE/lAMUUn9d+ZXUNEd"
+  }
+}
